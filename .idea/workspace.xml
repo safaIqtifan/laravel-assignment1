@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd0a8359-aa23-4f2b-9ad9-5b832100edb1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,6 +153,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -170,7 +173,8 @@
       <workItem from="1602940139161" duration="13750000" />
       <workItem from="1602961201418" duration="648000" />
       <workItem from="1602961892770" duration="2054000" />
-      <workItem from="1602999351488" duration="3920000" />
+      <workItem from="1602999351488" duration="9832000" />
+      <workItem from="1603159508330" duration="3471000" />
     </task>
     <servers />
   </component>
@@ -182,5 +186,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="447" y="348" key="ComposerInitDialogKey/0.0.1366.728@0.0.1366.728" timestamp="1602969730163" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1603014634003">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603014634003" />
   </component>
 </project>
